@@ -1,6 +1,6 @@
 # Hey, I'm Erion
 
-Software developer from Kosovo
+Full-stack developer from Kosovo
 
 I mostly build web apps with **.NET** and **React**. I like taking an everyday problem, like booking a haircut or reporting pollution in my city, and turning it into something people can actually use.
 
