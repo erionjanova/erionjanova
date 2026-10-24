@@ -9,7 +9,7 @@ I mostly build web apps with **.NET** and **React**. I like taking an everyday p
 | Project | What it is | Built with |
 |---|---|---|
 | **[Barber](https://github.com/erionjanova/barber)**<br>[live demo](https://barber-erion.onrender.com) | Booking app for barbershops. Customers book online, the barber gets new bookings live on a dashboard. | .NET 10, React, TypeScript, PostgreSQL, SignalR, Docker |
-| **[EkoKosova](https://github.com/erionjanova/EkoKosova)**<br>[live demo](https://ekokosova.vercel.app) | Platform for reporting pollution in Kosovo with photos, user accounts and an admin panel. | PHP, MySQL |
+| **[EkoKosova](https://github.com/erionjanova/EkoKosova)**<br>[live demo](https://ekokosova.vercel.app) | University team project (3 developers): a platform for reporting pollution in Kosovo with photos, user accounts and an admin panel. | PHP, MySQL |
 | **[Shopware&nbsp;QA](https://github.com/erionjanova/shopware-qa)** | End-to-end tests for a Shopware 6 shop: search, cart and checkout in 3 browsers. | Playwright, JavaScript |
 
 ## Tech I use
