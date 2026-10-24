@@ -1,27 +1,26 @@
-## Hi, I'm Erion 👋
+# Hey, I'm Erion 👋
 
-I'm a software developer from Kosovo. I build full-stack web applications, mostly with **.NET** and **React**, and I like projects that solve real, everyday problems.
+Software developer from Kosovo 🇽🇰
 
-I care about clean architecture, readable code and getting the details right, from the database up to the UI.
+I mostly build web apps with **.NET** and **React**. I like taking an everyday problem, like booking a haircut or reporting pollution in my city, and turning it into something people can actually use.
 
-### Projects
+## 🚀 Projects
 
-- **[Barber](https://github.com/erionjanova/barber)** · [live demo](https://barber-erion.onrender.com)<br>
-  A booking app for barbershops. Customers book online, the barber sees new bookings live and gets a full admin panel. Clean Architecture on .NET 10, React and TypeScript, PostgreSQL, SignalR and Docker, available in Albanian and English.
+| | Project | What it is | Built with |
+|---|---|---|---|
+| ✂️ | **[Barber](https://github.com/erionjanova/barber)**<br>[live demo](https://barber-erion.onrender.com) | Booking app for barbershops. Customers book online, the barber gets new bookings live on a dashboard. | .NET 10, React, TypeScript, PostgreSQL, SignalR, Docker |
+| 🌱 | **[EkoKosova](https://github.com/erionjanova/EkoKosova)**<br>[live demo](https://ekokosova.vercel.app) | Platform for reporting pollution in Kosovo with photos, user accounts and an admin panel. | PHP, MySQL |
+| 🧪 | **[Shopware QA](https://github.com/erionjanova/shopware-qa)** | End-to-end tests for a Shopware 6 shop: search, cart and checkout in 3 browsers. | Playwright, JavaScript |
 
-- **[EkoKosova](https://github.com/erionjanova/EkoKosova)**<br>
-  A platform for reporting pollution in Kosovo, with photo uploads, user accounts and an admin dashboard. Built with PHP and MySQL.
+## 🛠️ Tech I use
 
-- **[Shopware QA](https://github.com/erionjanova/shopware-qa)**<br>
-  End-to-end tests for a Shopware 6 storefront with Playwright, covering search, cart and checkout in Chromium, Firefox and WebKit.
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,tailwind,html,css,php&perline=9" alt="C#, .NET, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, PHP" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vercel,vscode&perline=9" alt="PostgreSQL, MySQL, Docker, Git, GitHub, Vercel, VS Code" />
+</p>
 
-### Tech I work with
+## 📫 Let's connect
 
-- **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core, PHP
-- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** Docker, Git, Playwright
-
-### Contact
-
-[LinkedIn](https://www.linkedin.com/in/erion-janova-60bb42340)
+<a href="https://www.linkedin.com/in/erion-janova-60bb42340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
