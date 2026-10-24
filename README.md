@@ -1,16 +1,16 @@
 # Hey, I'm Erion 👋
 
-Software developer from Kosovo 🇽🇰
+📍 Software developer from Kosovo
 
 I mostly build web apps with **.NET** and **React**. I like taking an everyday problem, like booking a haircut or reporting pollution in my city, and turning it into something people can actually use.
 
 ## 🚀 Projects
 
-| | Project | What it is | Built with |
-|---|---|---|---|
-| ✂️ | **[Barber](https://github.com/erionjanova/barber)**<br>[live demo](https://barber-erion.onrender.com) | Booking app for barbershops. Customers book online, the barber gets new bookings live on a dashboard. | .NET 10, React, TypeScript, PostgreSQL, SignalR, Docker |
-| 🌱 | **[EkoKosova](https://github.com/erionjanova/EkoKosova)**<br>[live demo](https://ekokosova.vercel.app) | Platform for reporting pollution in Kosovo with photos, user accounts and an admin panel. | PHP, MySQL |
-| 🧪 | **[Shopware QA](https://github.com/erionjanova/shopware-qa)** | End-to-end tests for a Shopware 6 shop: search, cart and checkout in 3 browsers. | Playwright, JavaScript |
+| Project | What it is | Built with |
+|---|---|---|
+| ✂️&nbsp;**[Barber](https://github.com/erionjanova/barber)**<br>[live demo](https://barber-erion.onrender.com) | Booking app for barbershops. Customers book online, the barber gets new bookings live on a dashboard. | .NET 10, React, TypeScript, PostgreSQL, SignalR, Docker |
+| 🌱&nbsp;**[EkoKosova](https://github.com/erionjanova/EkoKosova)**<br>[live demo](https://ekokosova.vercel.app) | Platform for reporting pollution in Kosovo with photos, user accounts and an admin panel. | PHP, MySQL |
+| 🧪&nbsp;**[Shopware&nbsp;QA](https://github.com/erionjanova/shopware-qa)** | End-to-end tests for a Shopware 6 shop: search, cart and checkout in 3 browsers. | Playwright, JavaScript |
 
 ## 🛠️ Tech I use
 
