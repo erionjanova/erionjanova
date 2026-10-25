@@ -4,6 +4,8 @@ Full-stack developer from Kosovo
 
 I mostly build web apps with **.NET** and **React**. I like taking an everyday problem, like booking a haircut or reporting pollution in my city, and turning it into something people can actually use.
 
+See more about me on my portfolio: **[erionjanova.onrender.com](https://erionjanova.onrender.com)**
+
 ## Projects
 
 | Project | What it is | Built with |
@@ -24,3 +26,4 @@ I mostly build web apps with **.NET** and **React**. I like taking an everyday p
 ## Let's connect
 
 <a href="https://www.linkedin.com/in/erion-janova-60bb42340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://erionjanova.onrender.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
