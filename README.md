@@ -21,7 +21,7 @@ See more about me on my portfolio: **[erionjanova.onrender.com](https://erionjan
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,tailwind,html,css,php&perline=9" alt="C#, .NET, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, PHP" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vercel,vscode&perline=9" alt="PostgreSQL, MySQL, Docker, Git, GitHub, Vercel, VS Code" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,githubactions,vercel,vscode&perline=9" alt="PostgreSQL, MySQL, Docker, Git, GitHub, GitHub Actions, Vercel, VS Code" />
 </p>
 
 ## Let's connect
